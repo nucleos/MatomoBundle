@@ -32,7 +32,7 @@
         "@babel/preset-typescript": "^7.22.5",
         "@hotwired/stimulus": "^3.2.2",
         "@size-limit/esbuild": "^9.0.0",
-        "@size-limit/preset-small-lib": "^9.0.0",
+        "@size-limit/preset-small-lib": "^11.0.0",
         "@symfony/stimulus-testing": "^2.0.1",
         "@symfony/webpack-encore": "^4.2.0",
         "@typescript-eslint/eslint-plugin": "^7.0.0",
