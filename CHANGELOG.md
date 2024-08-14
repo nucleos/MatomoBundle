@@ -2,27 +2,30 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 4.2.0 - TBD
+## 4.2.0 - 2024-08-14
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [4.2.0](https://github.com/nucleos/NucleosMatomoBundle/milestone/16)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 4.2.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **4**
+- Total contributors: **2**
 
-### Removed
+#### Enhancement
 
-- Nothing.
+ - [872: Fix symfony deprecation](https://github.com/nucleos/NucleosMatomoBundle/pull/872) thanks to @core23
 
-### Fixed
+#### dependency
 
-- Nothing.
+ - [869: Bump ws from 7.5.9 to 7.5.10 in /assets](https://github.com/nucleos/NucleosMatomoBundle/pull/869) thanks to @dependabot[bot]
+ - [867: Update frontend dependencies](https://github.com/nucleos/NucleosMatomoBundle/pull/867) thanks to @core23
+ - [862: Bump express from 4.18.2 to 4.19.2 in /assets](https://github.com/nucleos/NucleosMatomoBundle/pull/862) thanks to @dependabot[bot]
 
 ## 4.1.0 - 2024-03-25
 
